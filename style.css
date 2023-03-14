@@ -1,26 +1,6 @@
-#titulo {
-  text-shadow: 1px 8px gray;
-}
-
-#fila1 {
-  background-color: yellow;
-}
-
-#fila2 {
-  color: green;
-}
-
-.fila3y4 {
-  color: white;
-  background-color: black;
-}
-
-.fila5y6 {
-  color: blue;
-  text-transform: uppercase;
-}
-
-#fila7 {
-  text-shadow: 1px 8px orangered;
-  font-size: 30px;
+#fly {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: grayscale(10%) drop-shadow(10px 10px aqua);
 }
