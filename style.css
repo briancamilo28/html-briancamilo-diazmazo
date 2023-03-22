@@ -4,5 +4,23 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  filter: grayscale(10%) drop-shadow(10px 10px yellow);
+}
+
+#glaceon {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-left: 0px;
+  margin-right: 100px;
   filter: grayscale(10%) drop-shadow(10px 10px aqua);
+}
+
+#sylveon {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin-left: 250px;
+  margin-right: 100px;
+  filter: grayscale(10%) drop-shadow(10px 10px pink);
 }
